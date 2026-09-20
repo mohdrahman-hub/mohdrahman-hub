@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 # 💫 About Me:
-Lite<br>2:25 PM<br>B.Tech Data Science Engineering student building real-world projects with Python, Data Analytics, Machine Learning, and AI.
+B.Tech Data Science Engineering student building real-world projects with Python, Data Analytics, Machine Learning, and AI.
 
 
 ## 🌐 Socials:
